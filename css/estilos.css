@@ -1,16 +1,18 @@
 body
 {   
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family: cursive;
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: navy;
 }
 
 #cabezera
 {
     background-color: green ;
+    text-align: center;
     color: honeydew;
     margin: 0;
     padding: 0.5em;    
